@@ -2,6 +2,7 @@
 a XiaoBai's travel of study
 
 **This project is a shell that can siplefy the process of scientific surf.As a beginner,I do it just for rembering the process of mine.Therefore It's  suit for the beginner.**
+
 ***I'm glad to hear that it can help you in your study and I'm happy that you offer a proposal for it.***
 ***Have a good time!***
 
@@ -10,11 +11,6 @@ a XiaoBai's travel of study
 Supported distributions:
 
 - Ubuntu >= 16.04
-- Debian >= 10
-- Fedora
-- CentOS
-- Arch Linux
-- Oracle Linux
 
 ## Usage
 
