@@ -29,5 +29,12 @@ Then you can install with the choose and monitor it.
 ## The client
 You can install the exe as following.
 
-- [Vultr](https://goo.gl/Xyd1Sc): Worldwide locations, IPv6 support, starting at \$3.50/month
+- [shadowsocks](https://github.com/shadowsocks/shadowsocks-windows):This is the client and you must to configure it as same as the server-configre.
+- [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin): This is the plugin that can help you camouflage.You should put it in the dictionary of the shadowsocks.
 
+## The video-help
+I study it from a great youtube's creater whose videos are very good.
+
+Here, I would like to express my gratitude to him.
+
+- [Click here and you can find it!](https://www.youtube.com/watch?v=3ivwonJuqyI&t=1651s):It's very good.
