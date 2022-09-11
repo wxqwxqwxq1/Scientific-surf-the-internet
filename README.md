@@ -1,6 +1,5 @@
-# Scientific-surf-the-internet
+#Brief Introduction
 
-##Brief Introduction
 a XiaoBai's travel of study
 
 **This project is a shell that can siplefy the process of scientific surf.As a beginner,I do it just for rembering the process of mine.Therefore It's  suit for the beginner.**
