@@ -20,7 +20,7 @@ Supported distributions:
 You can download it in you server computer and then run it with the following commands.At the beginning,you should into the file's dictionary.
 
 ```bash
-chmod -x ./filename.sh
+chmod 777 filename.sh
 
 ./filename.sh
 ```
