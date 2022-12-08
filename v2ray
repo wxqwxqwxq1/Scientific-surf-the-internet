@@ -1,11 +1,1 @@
-trojan://your_awesome_password555@weixinqiang32.store:443?security=tls&sni=weixinqiang32.store&type=tcp&headerType=none#trojan
-socks://Og==@127.0.0.1:1080#1111
-vless://307ce768-fc47-4dc5-f303-30aaf30bd1e4@141.101.123.64:443?encryption=none&security=tls&type=ws&host=v.weixinqiang.eu.org&path=%2F#vls-2
-vless://307ce768-fc47-4dc5-f303-30aaf30bd1e4@185.22.153.57:80?encryption=none&security=none&type=ws&path=%2F#vls
-vless://307ce768-fc47-4dc5-f303-30aaf30bd1e4@v.weixinqiang.eu.org:80?encryption=none&security=none&type=ws&path=%2F#vls-1
-vless://307ce768-fc47-4dc5-f303-30aaf30bd1e4@141.101.120.8:443?encryption=none&security=tls&type=ws&host=v.weixinqiang.eu.org&path=%2F#vls-3
-vless://307ce768-fc47-4dc5-f303-30aaf30bd1e4@104.17.97.12:443?encryption=none&security=tls&type=ws&host=v.weixinqiang.eu.org&path=%2F#vls-4
-vless://307ce768-fc47-4dc5-f303-30aaf30bd1e4@104.17.112.107:443?encryption=none&security=tls&type=ws&host=v.weixinqiang.eu.org&path=%2F#vls-5
-vless://307ce768-fc47-4dc5-f303-30aaf30bd1e4@141.101.114.2:443?encryption=none&security=tls&type=ws&host=v.weixinqiang.eu.org&path=%2F#vls-6
-vless://307ce768-fc47-4dc5-f303-30aaf30bd1e4@104.17.114.26:443?encryption=none&security=tls&type=ws&host=v.weixinqiang.eu.org&path=%2F#vls-7
-vless://307ce768-fc47-4dc5-f303-30aaf30bd1e4@141.101.120.250:443?encryption=none&security=tls&type=ws&host=v.weixinqiang.eu.org&path=%2F#vls-8
+success
